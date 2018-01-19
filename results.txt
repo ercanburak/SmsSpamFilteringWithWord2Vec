@@ -1,0 +1,50 @@
+results
+
+Starting with sg:0, size:16, window:3
+SVM accuracy: 96.106960612086
+Time elapsed: 360.67802238464355
+Starting with sg:0, size:16, window:5
+SVM accuracy: 96.84285374156227
+Time elapsed: 323.45690727233887
+Starting with sg:0, size:32, window:3
+SVM accuracy: 97.00404754090975
+Time elapsed: 319.51745438575745
+Starting with sg:0, size:32, window:5
+SVM accuracy: 96.89616674066781
+Time elapsed: 305.16411447525024
+Starting with sg:0, size:48, window:3
+SVM accuracy: 97.04008288128287
+Time elapsed: 310.1921474933624
+Starting with sg:0, size:48, window:5
+SVM accuracy: 97.29107546186367
+Time elapsed: 305.10627126693726
+Starting with sg:0, size:64, window:3
+SVM accuracy: 97.32717515105887
+Time elapsed: 307.388060092926
+Starting with sg:0, size:64, window:5
+SVM accuracy: 97.43460550954615
+Time elapsed: 308.56278562545776
+Starting with sg:1, size:16, window:3
+SVM accuracy: 97.68575896218219
+Time elapsed: 253.04752612113953
+Starting with sg:1, size:16, window:5
+SVM accuracy: 97.54238978655496
+Time elapsed: 237.76149821281433
+Starting with sg:1, size:32, window:3
+SVM accuracy: 97.79354323919102
+Time elapsed: 247.91992735862732
+Starting with sg:1, size:32, window:5
+SVM accuracy: 98.04453581977182
+Time elapsed: 234.34132480621338
+Starting with sg:1, size:48, window:3
+SVM accuracy: 97.9189590934538
+Time elapsed: 255.10080242156982
+Starting with sg:1, size:48, window:5
+SVM accuracy: 98.06248914113628
+Time elapsed: 238.63207530975342
+Starting with sg:1, size:64, window:3
+SVM accuracy: 97.8833420204243
+Time elapsed: 253.10153579711914
+Starting with sg:1, size:64, window:5
+SVM accuracy: 98.20572961911931
+Time elapsed: 241.8961455821991
